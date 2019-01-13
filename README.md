@@ -5,11 +5,12 @@ Integrantes: Diego Nuñez, Diego Sodor y Fabio Arca.
 
 El TP se realizó utilizando databricks.
 
-Se adjunta el archivo EC_Brasil.dbc para poder importar los 3 notebooks juntos o bien pueden visualizarse desde las siguientes direcciones:
+Se adjunta el archivo EC_Brasil.dbc para poder importar los 4 notebooks juntos o bien pueden visualizarse desde las siguientes direcciones:
 
 1) Generación Data Set.
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5470207184736773/1225057460151625/3055828105123301/latest.html
+
 
 2) Visualización
 
@@ -19,7 +20,9 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5470207184736773/1364050660228549/3055828105123301/latest.html
 
+4) Minería de textos
 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5470207184736773/428457249008321/3055828105123301/latest.html
 
 
 
